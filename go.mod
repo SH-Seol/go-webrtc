@@ -1,4 +1,4 @@
-module webrtc
+module github.com/SH-Seol/go-webrtc
 
 go 1.22.3
 
